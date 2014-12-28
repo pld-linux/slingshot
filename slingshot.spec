@@ -9,7 +9,7 @@ Source0:	https://launchpad.net/slingshot/0.x/0.7/+download/%{name}-%{version}.ta
 # Source0-md5:	25be09dc150194216d3ee22de8fa8ffe
 URL:		https://launchpad.net/slingshot
 BuildRequires:	cmake
-BuildRequires:	gettext-devel
+BuildRequires:	gettext-tools
 BuildRequires:	glib2-devel
 BuildRequires:	gnome-menus-devel
 BuildRequires:	granite-devel
